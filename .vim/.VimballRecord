@@ -1,0 +1,2 @@
+winmanager.vmb: call delete('/home/qiuxin/.vim/doc/winmanager.txt')|call delete('/home/qiuxin/.vim/plugin/winfileexplorer.vim')|call delete('/home/qiuxin/.vim/plugin/winmanager.vim')|call delete('/home/qiuxin/.vim/plugin/wintagexplorer.vim')
+winmanager.vmb: call delete('/home/qiuxin/.vim/doc/winmanager.txt')|call delete('/home/qiuxin/.vim/plugin/winfileexplorer.vim')|call delete('/home/qiuxin/.vim/plugin/winmanager.vim')|call delete('/home/qiuxin/.vim/plugin/wintagexplorer.vim')

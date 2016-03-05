@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/users/qiuxin/dev/sug/app/wise/verticalsearch/appsug_trunk/strategyservice'
+let g:netrw_dirhist_2='/home/users/qiuxin/local/bin'
+let g:netrw_dirhist_3='/home/users/qiuxin/dev/sug/app/wise/verticalsearch/appsug/strategyservice'
+let g:netrw_dirhist_4='/Users/singleton/.zhuaxia'
+let g:netrw_dirhist_5='/Users/sin/.oh-my-zsh'
+let g:netrw_dirhist_6='/Library/Python/2.7/site-packages/django/db/models'
+let g:netrw_dirhist_7='/Users/sin/work/yc-video/es/cms/mysite/templates'
+let g:netrw_dirhist_8='/Library/Python/2.7/site-packages'
+let g:netrw_dirhist_9='/Users/sin/work/yc-video/es/cms/videos'
