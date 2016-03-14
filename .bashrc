@@ -106,8 +106,8 @@ fi
 alias vi='vim'
 export EDITOR=vim
 set -o vi
-bindkey -v
-bindkey '^R' history-incremental-search-backward
+#bindkey -v
+#bindkey '^R' history-incremental-search-backward
 
 export LANG=zh_CN.UTF-8
 export LC_ALL=zh_CN.UTF-8
